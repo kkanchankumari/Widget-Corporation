@@ -2,7 +2,7 @@
 <?php require_once("includes/functions.php");?>
 
 <?php
-//after filling subject form you validate the contents
+//after subject form you validate the contents
 $errors =array();
 
 $required_fields= array('menu_name','position','visible');
